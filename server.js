@@ -52,8 +52,9 @@ app.post('/upload', function(req, res) {
 	console.log(String(points));
 	}, 5000);
 	res.send("working");
-});
 */
+});
+
 
 
 app.get('/test', function (req,res) {
